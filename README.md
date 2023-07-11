@@ -25,6 +25,29 @@ create .gitignore file
 ```
 create README.md file
 ```
+
+```
+create requirements.txt file
+```
+
+```
+pip install -r requirements.txt
+```
+
+```
+dvc repro --- for reproducibility
+```
+
+```
+dvc dag
+```
+
+```
+dag -- Direct acyclic Graph
+```
+
+
+
 --------------------------------------------------------------------------------------------------------------------
 DVC --- Data Version Control
 --------------------------------------------------------------------------------------------------------------------
