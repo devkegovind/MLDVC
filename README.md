@@ -56,9 +56,9 @@ git add <file name>
 
 
 
---------------------------------------------------------------------------------------------------------------------
+```
 DVC --- Data Version Control
---------------------------------------------------------------------------------------------------------------------
+```
 Data Version Control (DVC) is a system that helps in managing the versioning and tracking of machine learning models and data sets. It is designed to address the challenges faced in the field of data science and machine learning, where data sets and models undergo frequent changes and iterations.
 
 DVC works in conjunction with Git, a popular version control system for source code. While Git is effective in managing code, it is not optimized for handling large data sets and machine learning models. DVC fills this gap by providing a layer of version control specifically tailored for data science projects.
@@ -79,9 +79,9 @@ Here are some key features and concepts related to Data Version Control:
 
 Overall, Data Version Control provides a framework for managing the entire lifecycle of machine learning projects, including data sets, models, and experiments. It helps data scientists and machine learning engineers to work more efficiently, collaborate effectively, and maintain the reproducibility of their work.
 
------------------------------------------------------------
+```
 ## Commands of DVC
------------------------------------------------------------
+```
 Data Version Control (DVC) provides a command-line interface (CLI) that allows you to interact with the system and perform various operations related to versioning and managing your data and models. Here are some commonly used commands in DVC:
 
 1. `dvc init`: Initializes a new DVC repository in the current directory.
